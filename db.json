@@ -1,141 +1,42 @@
 [
   {
     "id": 1,
-    "Event Name": "Birthday",
-    "username": "Bret",
-    "email": "Sincere@april.biz",
-    "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874"
-    },
-    "phone": "1-770-736-8031 x56442"
+    "Event Name": "Birthday"
   },
   {
     "id": 2,
-    "Event Name": "Wedding",
-    "username": "Antonette",
-    "email": "Shanna@melissa.tv",
-    "address": {
-      "street": "Victor Plains",
-      "suite": "Suite 879",
-      "city": "Wisokyburgh",
-      "zipcode": "90566-7771"
-    },
-    "phone": "010-692-6593 x09125"
+    "Event Name": "Wedding"
   },
   {
     "id": 3,
-    "Event Name": "Flower Carnival",
-    "username": "Samantha",
-    "email": "Nathan@yesenia.net",
-    "address": {
-      "street": "Douglas Extension",
-      "suite": "Suite 847",
-      "city": "McKenziehaven",
-      "zipcode": "59590-4157"
-    
-    },
-    "phone": "1-463-123-4447"
-    
+    "Event Name": "Flower Carnival"
   },
   {
     "id": 4,
-    "Event Name": "Art Exhibition",
-    "username": "Karianne",
-    "email": "Julianne.OConner@kory.org",
-    "address": {
-      "street": "Hoeger Mall",
-      "suite": "Apt. 692",
-      "city": "South Elvis",
-      "zipcode": "53919-4257"
-      
-    },
-    "phone": "493-170-9623 x156"
+    "Event Name": "Art Exhibition"
   },
   {
     "id": 5,
-    "Event Name": "Mall inaugration",
-    "username": "Kamren",
-    "email": "Lucio_Hettinger@annie.ca",
-    "address": {
-      "street": "Skiles Walks",
-      "suite": "Suite 351",
-      "city": "Roscoeview",
-      "zipcode": "33263"
-     
-    },
-    "phone": "(254)954-1289"
+    "Event Name": "Mall inaugration"
   },
   {
     "id": 6,
-    "Event Name": "Christmas celebration",
-    "username": "Leopoldo_Corkery",
-    "email": "Karley_Dach@jasper.info",
-    "address": {
-      "street": "Norberto Crossing",
-      "suite": "Apt. 950",
-      "city": "South Christy",
-      "zipcode": "23505-1337"
-     
-    },
-    "phone": "1-477-935-8478 x6430"
+    "Event Name": "Christmas celebration"
   },
   {
     "id": 7,
-    "Event Name": "Holi celebration",
-    "username": "Elwyn.Skiles",
-    "email": "Telly.Hoeger@billy.biz",
-    "address": {
-      "street": "Rex Trail",
-      "suite": "Suite 280",
-      "city": "Howemouth",
-      "zipcode": "58804-1099"
-     
-    },
-    "phone": "210.067.6132"
+    "Event Name": "Holi celebration"
   },
   {
     "id": 8,
-    "Event Name": "Book club opening",
-    "username": "Maxime_Nienow",
-    "email": "Sherwood@rosamond.me",
-    "address": {
-      "street": "Ellsworth Summit",
-      "suite": "Suite 729",
-      "city": "Aliyaview",
-      "zipcode": "45169"
-     
-    },
-    "phone": "586.493.6943 x140"
+    "Event Name": "Book club opening"
   },
   {
     "id": 9,
-    "Event name":"Funeral",
-    "username": "Delphine",
-    "email": "Chaim_McDermott@dana.io",
-    "address": {
-      "street": "Dayna Park",
-      "suite": "Suite 449",
-      "city": "Bartholomebury",
-      "zipcode": "76495-3109"
-     
-    },
-    "phone": "(775)976-6794 x41206"
+    "Event name":"Funeral"
   },
   {
     "id": 10,
-    "Event name": "Marathon",
-    "username": "Moriah.Stanton",
-    "email": "Rey.Padberg@karina.biz",
-    "address": {
-      "street": "Kattie Turnpike",
-      "suite": "Suite 198",
-      "city": "Lebsackbury",
-      "zipcode": "31428-2261"
-      
-    },
-    "phone": "024-648-3804"
+    "Event name": "Marathon"
   }
 ]
